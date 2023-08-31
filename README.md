@@ -7,3 +7,8 @@
 🏢 Actively seeking opportunities to contribute and collaborate with data-centric projects.
 
 🔍 Always curious, forever a student. Constantly learning about machine learning, statistics, data visualization, and more. My GitHub is a reflection of my learning journey and experimentation.
+
+
+---
+[Projects I made during my time studying at Yandex.Practicum.](https://github.com/dantoday/educational_projects.git)
+
