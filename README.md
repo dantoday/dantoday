@@ -19,5 +19,5 @@
 ###  Мои Репозитории / My Repositories:
 | Проекты / Projects | 
 |-------------------|
-| [Проекты выполненные при обучении в Яндекс.Практикуме / Yandex.Practicum Data Science Projects ](https://github.com/dantoday/educational_projects.git) |
+| [Портфолио: Проекты выполненные при обучении в Яндекс.Практикуме / Portfolio:  Yandex.Practicum Data Science Projects ](https://github.com/dantoday/educational_projects.git) |
 
